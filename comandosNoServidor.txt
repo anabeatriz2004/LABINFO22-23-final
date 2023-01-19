@@ -1,0 +1,42 @@
+    1  ls
+    2  trre
+    3  tree
+    4  history
+    5  git clone https://github.com/anabeatriz2004/LABINFO22-23-final.git
+    6  ls
+    7  cd ~
+    8  ls
+    9  cd..
+   10  ls
+   11  cd ..
+   12  ls
+   13  pwd
+   14  tree
+   15  git clone https://github.com/anabeatriz2004/LABINFO22-23-final.git
+   16  ls
+   17  https://github.com/anabeatriz2004/LABINFO22-23-final.git
+   18  cd runner/eminentElaborateMetadata
+   19  cd runner/EminentElaborateMetadata
+   20  ls
+   21  cd LABINFO22-23-final
+   22  ls
+   23  vi index.html
+   24  cat index.html
+   25  git add .
+   26  git commit -m "Criação do ficheiro index.html"
+   27  git config --global user.email "vicente.anab@gmail.com"
+   28  git config --global user.name "Ana Beatriz Vicente"
+   29  git add .
+   30  git commit -m "Criação do ficheiro index.html"
+   31  git push origin main
+   32  git history
+   33  history
+   34  history > comandosNoServidor.txt
+   35  cat comandosNoServidor.txt
+   36  git add .
+   37  git add .
+   38  pwd
+   39  cd LABINFO22-23-final
+   40  git add .
+   41  git commit -m "gerado ficheiro comandosNoServidor.txt"
+   42  history > comandosNoServidor.txt
